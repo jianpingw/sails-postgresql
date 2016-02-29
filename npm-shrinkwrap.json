@@ -123,6 +123,7 @@
       "version": "0.10.1",
       "from": "waterline-errors@0.10.1",
       "resolved": "https://registry.npmjs.org/waterline-errors/-/waterline-errors-0.10.1.tgz"
+<<<<<<< HEAD
     },
     "waterline-sequel": {
       "version": "0.5.7",
@@ -135,6 +136,8 @@
           "resolved": "https://registry.npmjs.org/lodash/-/lodash-3.10.0.tgz"
         }
       }
+=======
+>>>>>>> Removed npm shrinkwrap so that our custom version will be used.
     }
   }
 }
