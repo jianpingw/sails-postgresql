@@ -20,7 +20,7 @@
     "pg": "4.5.5",
     "waterline-cursor": "0.0.7",
     "waterline-errors": "0.10.1",
-    "waterline-sequel": "git+https://github.com/jianpingw/waterline-sequel.git"
+    "waterline-sequel": "git+https://github.com/jianpingw/waterline-sequel.git#jwu"
   },
   "devDependencies": {
     "mocha": "2.5.3",
